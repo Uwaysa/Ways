@@ -1,0 +1,2 @@
+# Ways
+newbie gan
